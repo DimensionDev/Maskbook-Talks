@@ -15,7 +15,7 @@
 ### Maskbook
 
 - Maskbook Version:
-- Installation: /* May be "Store" or "Self-Complied" */
+- Installation: /* May be "Store", "ZIP", or "Self-Complied" */
 - Build Commit: Optionally attach a Commit ID, if it is from an pre-release branch head
 
 ## Bug Info
