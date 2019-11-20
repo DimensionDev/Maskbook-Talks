@@ -6,4 +6,8 @@ Where talks of Maskbook happen.
 
 - [Website](https://maskbook.com/)
 - [Source Code](https://github.com/DimensionDev/Maskbook)
-- [Bug Report](https://github.com/DimensionDev/Maskbook-Talks/issues/new?template=bug.md&labels=bug&title=%5BBug%20Report%5D&assignee=neruthes)
+
+## Discussion Shortcuts
+
+- [Report a Bug](https://github.com/DimensionDev/Maskbook-Talks/issues/new?template=bug.md&labels=bug&title=%5BBug%20Report%5D&assignee=neruthes)
+- [Ask a Question](https://github.com/DimensionDev/Maskbook-Talks/issues/new?labels=question&title=%5BQuestion%5D&assignee=neruthes)
