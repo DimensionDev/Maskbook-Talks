@@ -2,6 +2,8 @@
 
 Where talks of Maskbook happen.
 
+[\[Read threads\]](https://github.com/DimensionDev/Maskbook-Talks/issues)
+
 ## Discussion Shortcuts
 
 - [Report a Bug](https://github.com/DimensionDev/Maskbook-Talks/issues/new?template=bug.md&labels=bug&title=%5BBug%20Report%5D&assignee=neruthes)
