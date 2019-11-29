@@ -2,7 +2,7 @@
 
 Where talks of Maskbook happen.
 
-[\[Read threads\]](https://github.com/DimensionDev/Maskbook-Talks/issues)
+[\[Read Active Threads\]](https://github.com/DimensionDev/Maskbook-Talks/issues)
 
 ## Discussion Shortcuts
 
