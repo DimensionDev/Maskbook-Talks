@@ -2,7 +2,7 @@
 name: Test 001
 about: "???"
 title: "[Test] "
-labels: wontfix
+labels: bug, duplicate, enhancement, question, wontfix
 assignees: neruthes
 
 ---
